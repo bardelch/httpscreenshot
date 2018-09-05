@@ -6,3 +6,4 @@ pillow
 requesocks
 python-libnmap
 pyvirtualdisplay
+lxml
